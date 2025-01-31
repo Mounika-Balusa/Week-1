@@ -1,5 +1,7 @@
 # Week-1 
 DATASET for project https://www.kaggle.com/datasets/techsach/waste-classification-data
+
+
 Developing a CNN Model to classify images of plastic waste
 Project Overview
 This project is part of the Shell-Edunet Skills4Future Internship program, which spans four weeks from January 2025 to February 2025. The primary objective of this project is to develop a Convolutional Neural Network (CNN) model to classify images of plastic waste into different categories.
